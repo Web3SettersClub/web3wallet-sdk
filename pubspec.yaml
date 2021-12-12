@@ -1,6 +1,6 @@
 name: web3wallet_sdk
 description: Flutter SDK for building plugin packages for the Web3 Wallet.
-version: 0.1.0
+version: 0.1.01
 homepage: https://setheum.xyz
 
 environment:
