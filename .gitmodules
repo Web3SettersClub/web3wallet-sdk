@@ -1,6 +1,6 @@
 [submodule "js-api"]
 	path = js-api
 	url = https://github.com/Web3SettersClub/web3wallet.js.git
-[submodule "js-signer"]
-	path = js-signer
+[submodule "signer-extension"]
+	path = signer-extension
 	url = https://github.com/Web3SettersClub/web3wallet-signer.js.git
